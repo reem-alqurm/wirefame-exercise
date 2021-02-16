@@ -1,1 +1,78 @@
 
+
+header img{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    float: left;
+}
+li {
+    position: relative;
+    top: 30px;
+    left: 60px;
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+   a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  main img{
+
+    padding: 30px;
+    position: relative;
+    top: 30px;
+  }
+  
+.sub{
+    background-position: center;
+    padding: 70px;
+}
+main span {
+    display: inline-block;
+width: 50%;
+}
+main img {
+    display: inline;    
+
+}
+main div img{
+  
+    position: relative;
+    top: 30px;
+    left: 60px;
+    display:inline-block;
+}
+main div h3{
+    float: left;
+    position: relative;
+    top: 30px;
+    left: 60px;
+}
+main div p {
+    background-color: lightblue;
+    width: 300px;
+    height: 150px;
+    overflow: auto;
+    float: left;  
+    display: inline;   
+    position: relative;
+    top: 30px;
+    left: 60px; 
+  }
+main button{
+    float: left;
+}
+  
