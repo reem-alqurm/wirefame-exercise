@@ -89,7 +89,7 @@ p{
   position:relative;  
   display: inline-block;
   right: 30px;
-  font-weight: bold;
+  /* font-weight: bold; */
   overflow:scroll;
   width: 480px;
   height: 300px; 
